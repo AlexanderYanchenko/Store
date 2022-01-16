@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Store.API", "Store.API\Store.API.csproj", "{F943CDF3-0222-4FD2-8E90-C34294B6A95C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Store.DAL", "Store.DAL\Store.DAL.csproj", "{1B39219E-842F-4AB7-8FA5-C64209DFF8B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Store.BLL", "Store.BLL\Store.BLL.csproj", "{8BD60DD8-5DF5-456C-9AD5-10484DDA0D35}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F943CDF3-0222-4FD2-8E90-C34294B6A95C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F943CDF3-0222-4FD2-8E90-C34294B6A95C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F943CDF3-0222-4FD2-8E90-C34294B6A95C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F943CDF3-0222-4FD2-8E90-C34294B6A95C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B39219E-842F-4AB7-8FA5-C64209DFF8B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B39219E-842F-4AB7-8FA5-C64209DFF8B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B39219E-842F-4AB7-8FA5-C64209DFF8B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B39219E-842F-4AB7-8FA5-C64209DFF8B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BD60DD8-5DF5-456C-9AD5-10484DDA0D35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BD60DD8-5DF5-456C-9AD5-10484DDA0D35}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BD60DD8-5DF5-456C-9AD5-10484DDA0D35}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BD60DD8-5DF5-456C-9AD5-10484DDA0D35}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
